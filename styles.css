@@ -27,7 +27,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/logo\ carnaval');
+    background-image: url('img/Fundo.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -78,8 +78,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('img/mascara.png') top right no-repeat,
+        url('img/mascara.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -107,7 +107,7 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/mascara.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
